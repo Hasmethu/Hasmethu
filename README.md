@@ -1,7 +1,4 @@
-<img width="840" height="472" alt="matheus_alves" src="https://github.com/user-attachments/assets/2bf667dc-f977-47ce-b265-d86eaab970bf" />
-
-
-**`Desenvolvedor em Formação`**
+<img width="1000" height="250" alt="matheus_alves" src="https://github.com/user-attachments/assets/2bf667dc-f977-47ce-b265-d86eaab970bf" />
 
 Meu nome é Matheus Alves Araujo, tenho 19 anos, e sou natural de Brasília - DF. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UDF, com experiência prática no desenvolvimento de aplicações e automação de processos. Tenho interesse em bancos de dados, automação, inteligência artificial e desenvolvimento de soluções que simplifiquem tarefas e resolvam problemas reais. Já trabalhei com Power Apps, Power Automate, SharePoint, SQL, HTML, CSS e outras tecnologias. Atualmente, busco expandir meus conhecimentos, aprender novas ferramentas e transformar ideias em soluções cada vez mais eficientes.
 
