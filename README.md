@@ -15,7 +15,7 @@ Meu nome é Matheus Alves Araujo, tenho 19 anos, e sou natural de Brasília - DF
     <a href="https://github.com/Hasmethu?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Hasmethu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
