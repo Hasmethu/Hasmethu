@@ -21,7 +21,7 @@ Meu nome é Matheus Alves Araujo, tenho 19 anos, e sou natural de Brasília - DF
     </a>
     <a href="mailto:hasmetudev@gmail.com">
         <img 
-            alt="E-mail para contado" 
+            alt="E-mail para contato" 
             title="Email para contato" 
             src="https://custom-icon-badges.demolab.com/badge/-hasmetudev@gmail.com-purple?style=for-the-badge&logo=mention&logoColor=white"
         />
