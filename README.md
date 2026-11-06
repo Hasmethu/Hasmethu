@@ -26,13 +26,6 @@ Meu nome é Matheus Alves Araujo, tenho 19 anos, e sou natural de Brasília - DF
             src="https://custom-icon-badges.demolab.com/badge/-hasmetudev@gmail.com-purple?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/majodev">
-        <img 
-            alt="LinkedIn" 
-            title="Me acompanhe no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
